@@ -10,4 +10,4 @@ from it and let community use it and critique it.
 Copyright
 ---------
 
-Copyright (c) 2021, Rye Miller
+Copyright (c) 2022, Rye Miller
